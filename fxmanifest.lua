@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'xCoore Development'
+author 'Royal Script'
 description 'Status HUD System For ESX'
 version '1.0'
 
